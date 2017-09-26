@@ -85,7 +85,7 @@ What relationships do you notice?
 What do you think is the main takeaway from this visualization?
 Is there something you don’t understand in the graphic?
 
-# Step Six - Document Feedback and Improve the Visualization
+### Step Six - Document Feedback and Improve the Visualization
 
 For each person that gives you feedback, add the person’s feedback to your write-up file in the Feedback section. As you improve and iterate on your visualization, update the visualization AND describe any changes in the Design section of the write-up.
 
@@ -96,7 +96,8 @@ When should you save your files? You should save your files whenever you have a 
 Your goal is to build evidence that you have shared your visualization, received feedback, and responded to that feedback. You need to submit an initial version of your data visualization and the final version with the corresponding write-up.
 
 
-# Step Seven - Review
+### Step Seven - Review
+
 Use the Project Rubric to review your project. If you are happy with your submission, then you’re ready to submit your project. If you see room for improvement, keep working to improve your project!
 
 
