@@ -37,7 +37,10 @@ First, sketch ideas for your visualization. Once you settle on a sketch, explain
 
 ##  Step Five - Get Feedback and Step Six - Document Feedback and Improve the Visualization
 
+
 - Person 1: 
+
+Image 1: https://public.tableau.com/profile/andre.yai#!/vizhome/HDIWorld/Story1 
 
 What do you notice in the visualization?
 
