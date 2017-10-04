@@ -35,8 +35,8 @@ Resources:
 
 ## Step Three - Find a Data Story
 
-Explore your data set and craft a message or story around your data!
-
+In my dataset the main idea that I am tring to craft is that how the picture of the human develpment in diferent countries and continents.
+We can see that the countries with the highest Human Development Index tend to have a better education and a bigger life expectancy and their gross income can vary. The lowest HDI are located in Africa and the highest in Europe.
 
 ## Step Four - Create Your Visualization
 
@@ -49,6 +49,7 @@ First, sketch ideas for your visualization. Once you settle on a sketch, explain
 - Person 1: 
 
 Image 1: https://public.tableau.com/profile/andre.yai#!/vizhome/Continent_Statistics/Story1
+
 What do you notice in the visualization?
 
 What questions do you have about the data?
