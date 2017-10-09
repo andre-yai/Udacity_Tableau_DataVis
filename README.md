@@ -4,11 +4,11 @@
 
 This is a project for Udacity Data Analysit Nanaodegree. In this project I wil create a data visualization using Tableau that tells a story or highlights trends or patterns in the Human Development Index (HDI).
 
-## Step One - Choose a Data Set 
+## Choose a Data Set 
 
 The dataset that I choose to analyse was the Human Development Index dataset. In this data set we have the human development score and rank for each country along with their life expectancy at birth, mean of educations years and their gross national income.
 
-## Step Two - Get Organized
+## Get Organized
 
 - Summary: 
 
@@ -24,14 +24,14 @@ In the contries we have a scatterplot comparing amoung the large amount of count
 In the continent dashboard ,we have a barplot in order to compare the countries in their average human development index, life expectancy at birth, mean of educations years and their gross national income per capita. We have also a map that has colored with the average HDI score.
 
 
-## Step Three - Find a Data Story
+## Find a Data Story
 
 In my dataset the main idea that I am tring to craft is how the picture of the human develpoment index scenario and their measures are in diferent countries and continents.
 We can see that the countries with the highest Human Development Index have also better education and a bigger life expectancy. The lowers HDI are located in Africa and the highers in Europe.
 
 - Feedback: include all feedback you received from others on your visualization from the first sketch to the final visualization
 
-##  Step Five - Get Feedback and Step Six - Document Feedback and Improve the Visualization
+## Get Feedback and Step Six - Document Feedback and Improve the Visualization
 
 
 Image 1: https://public.tableau.com/profile/andre.yai#!/vizhome/Continent_Statistics/Story1
