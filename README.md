@@ -17,14 +17,52 @@ The Human Development Index (HDI) is a summary measure of achievements in key di
 
 - Design: 
 
-I decided to have two dashboards for my project one for the continets and other for the contries.
-In the continent dashboard we have a barplot in order to compare the countries in their averages human development index, life expectancy at birth, mean of educations years and their gross national income. We have also a map that has colored with the average HDI score.
-In the contries we have a scatterplot also to compare beetween the large amount of countries in our dataset their measures of healthy, education and living (in the size of the symbol) and shaped which countinent they belong. We also have a map to show us exacly were does that country are located and a global sense of the HDI scenario. 
+I decided to have two dashboards for my project. One for the countries and another for the continents.
+
+In the contries we have a scatterplot comparing amoung the large amount of countries in our dataset, their measures of healthy (y axis), education (x axis), living (size of the symbol) and continent (shape format). We also have a map that shows exacly were the country is located and a overview of the HDI scenario. I also added a line chart showing the evolution of HDI throughout the years for the selected area in the map.
+
+In the continent dashboard ,we have a barplot in order to compare the countries in their average human development index, life expectancy at birth, mean of educations years and their gross national income per capita. We have also a map that has colored with the average HDI score.
+
+
+## Step Three - Find a Data Story
+
+In my dataset the main idea that I am tring to craft is how the picture of the human develpoment index scenario and their measures are in diferent countries and continents.
+We can see that the countries with the highest Human Development Index have also better education and a bigger life expectancy. The lowers HDI are located in Africa and the highers in Europe.
 
 - Feedback: include all feedback you received from others on your visualization from the first sketch to the final visualization
 
+##  Step Five - Get Feedback and Step Six - Document Feedback and Improve the Visualization
 
-- Resources: list any sources you consulted to create your visualization
+
+Image 1: https://public.tableau.com/profile/andre.yai#!/vizhome/Continent_Statistics/Story1
+
+What do you notice in the visualization?
+1. The graph description at the top can have a better description of the selected graphs
+2. The graphs should show the data sources and years
+3. Once the continent is selected, the graph below could change showing just the related countries.
+
+What questions do you have about the data?
+1. would be helpful to have a short description of the UN definition for each type of data, for instance, how is calculated the GNI 
+
+What relationships do you notice?
+1. I noticed that most of the indexes are related showing that the better GNI means better GNP, lyfe expectancy and study.
+
+What do you think is the main takeaway from this visualization?
+1. The comparison among continents and countries
+
+Is there something you don’t understand in the graphic?
+1. No.
+
+
+Improved Visulization by: 
+1. Adding the data reference to my visualization.
+2. Editted the visualization discription.
+3. Added the feature that once the continent is selected, the graph below could change showing just the related countries.
+4. Added a short description from UN about the data.
+5. Rearrange the continent statistics for a better view.
+
+Files are located at: https://public.tableau.com/profile/andre.yai#!/vizhome/HDI_Statistics/Story1
+
 
 Resources: 
 
@@ -32,52 +70,4 @@ Resources:
 - [UN Human Development Index (HDI)](http://hdr.undp.org/en/content/human-development-index-hdi)
 - [Kaggle - Human Development Report 2015](https://www.kaggle.com/undp/human-development)
 
-
-## Step Three - Find a Data Story
-
-In my dataset the main idea that I am tring to craft is that how the picture of the human develpment in diferent countries and continents.
-We can see that the countries with the highest Human Development Index tend to have a better education and a bigger life expectancy and their gross income can vary. The lowest HDI are located in Africa and the highest in Europe.
-
-## Step Four - Create Your Visualization
-
-First, sketch ideas for your visualization. Once you settle on a sketch, explain any design choices in that sketch, such as chart type, visual encodings, and layout, in the Design section of the write-up.
-
-
-##  Step Five - Get Feedback and Step Six - Document Feedback and Improve the Visualization
-
-
-- Person 1: 
-
-Image 1: https://public.tableau.com/profile/andre.yai#!/vizhome/Continent_Statistics/Story1
-
-What do you notice in the visualization?
-
-What questions do you have about the data?
-
-What relationships do you notice?
-
-What do you think is the main takeaway from this visualization?
-
-Is there something you don’t understand in the graphic?
-
-
-Improved Visulization by:
-
-Files are located at: 
-
-- Person 2:
-
-What do you notice in the visualization?
-
-What questions do you have about the data?
-
-What relationships do you notice?
-
-What do you think is the main takeaway from this visualization?
-
-Is there something you don’t understand in the graphic?
-
-Improved Visulization by:
-
-Files are located at: 
 
